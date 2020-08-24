@@ -33,7 +33,7 @@
 > npm start
 ```
 
-## POST - Cadastro de Aula
+## 1 - POST - Cadastro de Aula
 ```
 http://localhost:3333/classes
 ```
@@ -51,7 +51,7 @@ http://localhost:3333/classes
 }
 ```
 
-## GET - Busca aula
+## 2 - GET - Busca aula
 
 ```
 http://localhost:3333/classes
@@ -63,7 +63,7 @@ subject: Geografia
 time: 11:00
 ```
 
-## Post - Criar Nova Conexão
+## 3 - Post - Criar Nova Conexão
 
 ```
 http://localhost:8081/projeto/perfil
@@ -74,7 +74,7 @@ http://localhost:8081/projeto/perfil
 }
 ```
 
-## GET - Listar Total de Conexões
+## 4 - GET - Listar Total de Conexões
 
 ```
 http://localhost:3333/connections
