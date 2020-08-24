@@ -5,9 +5,12 @@
  - Esta api apresentas asseguintes funcionalidades.
  
  1 - Cadastro de Aula - Cria usuário, cria aula, cria horário
+ 
  2 - Busca Aula
+ 
  3 - Criar Nova Conexão
- 3 - Listar Total de Conexões
+ 
+ 4 - Listar Total de Conexões
 
  
  ### Detalhes
