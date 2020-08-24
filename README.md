@@ -42,8 +42,8 @@ http://localhost:3333/classes
     "name":"Ana Moraes",
     "avatar":"https://avatars2.githubusercontent.com/u/47642347?s=460&u=c9e1327f95cc1add7318b028f597022beea4bc53&v=4",
     "whatsapp":"92992052656",
-    "bio": "Professor de Ingles",
-    "subject": "ingles",
+    "bio": "Professor de Geografia",
+    "subject": "Geografia",
     "cost": 80,
     "schedule": [
         {"week_day": 1, "from": "8:00", "to": "12:00"}
