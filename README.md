@@ -66,7 +66,7 @@ time: 11:00
 ## 3 - Post - Criar Nova Conexão
 
 ```
-http://localhost:8081/projeto/perfil
+http://localhost:3333/connections
 ```
 ```
 {
