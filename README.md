@@ -2,7 +2,7 @@
 
 ### Overview
 
- - Esta api apresentas asseguintes funcionalidades.
+ - Esta api apresentas as seguintes funcionalidades.
  
  1 - Cadastro de Aula - Cria usuário, cria aula, cria horário
  
